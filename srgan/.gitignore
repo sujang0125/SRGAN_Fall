@@ -1,0 +1,6 @@
+Architecture_images/
+output/
+training_data/
+srgan_model/
+fall_detect_model/
+ds_fall_detect_model/
